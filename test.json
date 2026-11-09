@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Montserrat",
+  "previewText": "The old posters and signs in the traditional neighborhood of Buenos Aires called Montserrat inspired me to design a typeface that rescues the beauty of urban typography from the first half of the twentieth century. The goal is to rescue what is in Montserrat and set it free, under a free, libre and open source license, the SIL Open Font License. As urban development changes this place, it will never return to its original form and loses forever the designs that are so special and unique.",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-BoldItalic": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-MediumItalic": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-NormalItalic": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf",
+    "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Ent3x/SomeFont/refs/heads/main/Ndot.ttf"
+  }
+}
